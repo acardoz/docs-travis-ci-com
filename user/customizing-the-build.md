@@ -71,7 +71,7 @@ If you are only interested in building the most recent commit on each branch you
 
 The *Auto Cancellation Setting* is in the *Settings* tab of each repository, and you can enable it separately to:
 * *Auto cancel branch builds* - cancels queued builds in your branch and appears in the *Build History* tab of your repository.
-
+m
 * *Auto cancel pull request builds* - cancels queued builds for pull requests (the future merge result of your change/feature branch against its target) and appears in the *Pull Requests* tab of your repository.
 
 ![Auto cancellation setting](/images/autocancellation.png "Auto cancellation setting")
